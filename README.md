@@ -1,0 +1,1 @@
+An automated python script that automatically validates whether mortgage loan quotes are valued "at par" by considering multiple parameters. Operates by webscraping the Vesta pricing engine which is a mortgage industry standard for loan pricing.
